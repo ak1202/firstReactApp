@@ -1,2 +1,1 @@
-# firstReactApp
-Practicing React with Git
+My First React App!
